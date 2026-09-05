@@ -2,31 +2,42 @@
 
 Site institucional da academia Makura Jiu Jitsu em Belo Horizonte, MG.
 
+**Site ao vivo:** https://cronosafiacoes.github.io/makura-bjj/
+
+## Informações
+
+- **Mestre:** Prof. Marlon
+- **Endereço:** Rua Guararapes, 237 - Belo Horizonte, MG
+- **Telefone / WhatsApp:** (31) 99573-1188
+- **Email:** contato@makurabjj.com.br
+
 ## Estrutura
 
 ```
 makura-bjj/
-├── index.html    # Pagina principal (todas as secoes)
+├── index.html    # Página principal (todas as seções)
 ├── styles.css    # Estilos - paleta preto e vermelho
-└── script.js     # Interatividade (menu mobile, animacoes)
+└── script.js     # Interatividade (menu mobile, animações)
 ```
 
 ## Seções
 
-- **Hero** - Titulo principal + CTAs
-- **Filosofia** - Missao da academia
+- **Hero** - Título principal + CTAs
+- **Filosofia** - Missão da academia
 - **Metodologia** - Como treinamos
-- **Time** - Professores
-- **Escolas** - Localizacao em BH
-- **CTAs** - Se junte a nos (aluno/afiliado)
-- **Blog** - Novidades e conteudo
-- **Contato** - Formulario e informacoes
+- **Time** - Prof. Marlon
+- **Escolas** - Rua Guararapes, 237 (mapa do Google)
+- **CTAs** - Se junte a nós (aluno/afiliado)
+- **Blog** - Novidades e conteúdo
+- **Contato** - Formulário e informações
 - **Footer** - Newsletter e redes sociais
 
-## Pagina
+## Publicação
 
-Abra `index.html` no navegador para visualizar o site.
+O site é publicado automaticamente via GitHub Pages na branch `main`.
 
-## Personalizacao
+## Personalização
 
-Substitua os placeholders `[Nome]`, `[Inserir Endereco]`, `(31) XXXX-XXXX` pelos dados reais da academia. Substitua também a imagem de fundo do hero (`MMA_Background.jpg`) por uma foto real da academia.
+- Substitua o link das redes sociais (`#`) pelos perfis reais da academia.
+- Adicione a foto de fundo do hero como `MMA_Background.jpg` na pasta raiz.
+- Vincule a newsletter e o formulário de contato a um serviço de email (ex: Formspree, EmailJS).
